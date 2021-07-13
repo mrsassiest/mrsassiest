@@ -6,10 +6,10 @@ I'm a React Native Developer, Web Developer, Software Developer Enthusiast and a
 ➡️ YouTuber
 
 ▪️ My skills include :<br>
-🔹️Programming Language: C, C++, JAVA, JavaScript <br>
+🔹️Programming Language: C, JAVA, Python, JavaScript <br>
 🔹️Problem Solving Skills: Data Structures & Algorithms , OOPs<br>  
 🔹️Web Development: HTML5 , CSS3 <br>
-🔹️Framework & Tools : React Native, .NET, Git , VS Code<br>
+🔹️Framework & Tools : React Native, Git , VS Code<br>
 🔹️Database : MongoDB , MySQL<br>
 🔹️Operating System: Windows, Linux<br>
 
