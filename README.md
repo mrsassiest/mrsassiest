@@ -22,7 +22,7 @@ I'm a React Native Developer, Web Developer, Software Developer Enthusiast and a
 ## Git stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsassiest)](https://github.com/tarunsinghofficial/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrsassiest)](https://github.com/anuraghazra/github-readme-stats)
+[![Digvijays's github stats](https://github-readme-stats.vercel.app/api?username=mrsassiest)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> Find me around the web 🌎: </h2><br>
