@@ -1,6 +1,6 @@
 <h1>Hi, I'm Digvijay Kirti Verma! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a React Native Developer, Web Developer, Software Developer Enthusiast and an open source contributor. I have completed my Master of Computer Application from <a href = "https://uohyd.ac.in/">University of Hyderabad</a> and working as a Software Engineer at <a href = "https://www.eupheus.in/">Eupheus Learning.</a>
+I'm a Software Developer Enthusiast and an open-source contributor. I have completed my Master of Computer Application from <a href = "https://uohyd.ac.in/">University of Hyderabad</a> and working as a Software Engineer at <a href = "https://www.eupheus.in/">Eupheus Learning.</a>
 <br>
 🎓 An Open-Source enthusiast<br>
 ➡️ YouTuber
